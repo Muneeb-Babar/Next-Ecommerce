@@ -1,6 +1,6 @@
 import Pagesbar from "@/components/PageBar/PageBar"
 import {Button} from '@/components/ui/button'
-import Brands from "@/components/brands/Brands"
+import Brands from "@/components/Brands/Brands"
 import Header from "@/components/Header/Header";
 const login = () => {
   return (

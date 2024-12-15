@@ -1,14 +1,14 @@
 "use client";
-import Pagesbar from "@/components/PageBar/PageBar";
+import PageBar from "@/components/PageBar/PageBar";
 import Image from "next/image";
 import { shopItems } from "@/Data/Data";
-import Brands from "@/components/brands/Brands";
+import Brands from "@/components/Brands/Brands";
 import Header from "@/components/Header/Header";
 const page = () => {
   return (
     <>
     <Header />
-      <Pagesbar
+      <PageBar
         pageName="Shop Grid Default"
         name1="Home"
         name2="Page"

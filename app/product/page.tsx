@@ -9,7 +9,7 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Link from "next/link";
 import { productDetails } from "@/Data/Data";
-import Brands from "@/components/brands/Brands";
+import Brands from "@/components/Brands/Brands";
 import Header from "@/components/Header/Header";
 const Shop = () => {
   // w-[90%] min3:w-[900px] lg:w-[1000px] min7:

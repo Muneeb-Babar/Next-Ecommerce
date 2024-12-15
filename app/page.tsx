@@ -8,7 +8,7 @@ import TrendingProducts from "@/components/TrendingProducts/TrendingProducts";
 import DiscountItems from "@/components/DiscountItems/DiscountItems";
 import TopCategories from "@/components/TopCategories/TopCategories";
 import Banner2 from "@/components/banner2/Banner2";
-import Brands from "@/components/brands/Brands";
+import Brands from "@/components/Brands/Brands";
 import Blog from "@/components/Blog/Blog";
 
 export default function Home() {

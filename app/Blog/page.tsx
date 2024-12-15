@@ -10,7 +10,7 @@ import {
   faInstagram,
   faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
-import Brands from "@/components/brands/Brands";
+import Brands from "@/components/Brands/Brands";
 import Header from "@/components/Header/Header";
 const page = () => {
   return (
