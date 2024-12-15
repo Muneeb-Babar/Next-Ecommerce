@@ -274,7 +274,7 @@ export const shopItems = [
   {
 
     id:'2',
-    image:'/images/shopItem2 (2).svg',
+    image:'/images/shopItem2.svg',
     alt:'ultricies condimentum imperdiet',
     name:'ultricies condimentum imp',
     image2:'/images/sliderShopItem.svg',
@@ -398,7 +398,7 @@ export const shopItems = [
 export const BlogData = [
   {
     id:'1',
-    image:'/images/blog.svg',
+    image:'/images/Blog.svg',
     alt:'Blog image 1',
     name:'Surf Auxion',
     date:'Aug 09 2020',
@@ -408,7 +408,7 @@ export const BlogData = [
   },
   {
     id:'2',
-    image:'/images/blog0.svg',
+    image:'/images/Blog0.svg',
     alt:'Blog image 2',
     name:'Surf Auxion',
     date:'Aug 09 2020',
@@ -418,7 +418,7 @@ export const BlogData = [
   },
   {
     id:'3',
-    image:'/images/blog00.svg',
+    image:'/images/Blog00.svg',
     alt:'Blog image 3',
     name:'Surf Auxion',
     date:'Aug 09 2020',
@@ -433,7 +433,7 @@ export const BlogData = [
 export const recentPosts = [
   {
     id:'1',
-    image:'/images/recentPost1.svg',
+    image:'/images/recentpost1.svg',
     alt:'post1',
     
     
@@ -441,14 +441,14 @@ export const recentPosts = [
   },
   {
     id:'2',
-    image:'/images/recentPost2.svg',
+    image:'/images/recentpost2.svg',
     alt:'post2',
     
 
   },
   {
     id:'3',
-    image:'/images/recentPost3.svg',
+    image:'/images/recentpost3.svg',
     alt:'post3',
     text:'Viverra pulvinar et enim.',
     
@@ -456,7 +456,7 @@ export const recentPosts = [
   },
   {
     id:'4',
-    image:'/images/recentPost4.svg',
+    image:'/images/recentpost4.svg',
     alt:'post4',
     
 
@@ -467,7 +467,7 @@ export const recentPosts = [
  export const saleProduct =[
   {
     id:'1',
-    image:'/images/saleProduct1.svg',
+    image:'/images/saleproduct1.svg',
     alt:'post1',
     text:'elite ornare in enim mauris.',
     subtext:'Aug 09 2020',
@@ -475,7 +475,7 @@ export const recentPosts = [
   },
   {
     id:'2',
-    image:'/images/saleProduct2.svg',
+    image:'/images/saleproduct2.svg',
     alt:'post2',
     text:'Viverra pulvinar et enim.',
     subtext:'Aug 09 2020',
@@ -483,7 +483,7 @@ export const recentPosts = [
   },
   {
     id:'3',
-    image:'/images/saleProduct3.svg',
+    image:'/images/saleproduct3.svg',
     alt:'post3',
     text:'Mattis varius donec fdsfd',
     subtext:'Aug 09 2020',
@@ -497,7 +497,7 @@ export const recentPosts = [
 export const productDetails =[
   {
     id:'1',
-    image:'/images/lProduct1.svg',
+    image:'/images/lproduct1.svg',
     alt:'Product1',
     heading:'Mens Fashion Wear',
     price:'$43.00',
@@ -506,7 +506,7 @@ export const productDetails =[
 
   {
     id:'2',
-    image:'/images/lProduct2.svg',
+    image:'/images/lproduct2.svg',
     alt:'Product2',
     heading:'Women’s Fashion',
     price:'$67.00',
@@ -516,7 +516,7 @@ export const productDetails =[
 
   {
     id:'3',
-    image:'/images/lProduct3.svg',
+    image:'/images/lproduct3.svg',
     alt:'Product3',
     heading:'Wolx Dummy Fashion',
     price:'$51.00',
@@ -525,7 +525,7 @@ export const productDetails =[
 
   {
     id:'4',
-    image:'/images/lProduct4.svg',
+    image:'/images/lproduct4.svg',
     alt:'Product4',
     heading:'Top Wall Digital Clock',
     price:'$48.00',
@@ -539,7 +539,7 @@ export const productDetails =[
 export const cartData =[
   {
     id:'1',
-    image:'/images/cartImage1.svg',
+    image:'/images/cartimage1.svg',
     alt:'cart icon 1',
     name:'Ut diam conseq',
     color:'Color : Brown',
@@ -550,7 +550,7 @@ export const cartData =[
 
    {
     id:'2',
-    image:'/images/cartImage2.svg',
+    image:'/images/cartimage2.svg',
     alt:'cart icon 2',
     name:'Vel faucibus posu',
     color:'Color : blue',
@@ -561,7 +561,7 @@ export const cartData =[
 
    {
     id:'3',
-    image:'/images/cartImage3.svg',
+    image:'/images/cartimage3.svg',
     alt:'cart icon 3',
     name:'Ac vitae vestib',
     color:'Color : grey',
@@ -572,7 +572,7 @@ export const cartData =[
 
    {
     id:'4',
-    image:'/images/cartImage4.svg',
+    image:'/images/cartimage4.svg',
     alt:'cart icon 4',
     name:'elite massa diam',
     color:'Color : cyan',
@@ -583,7 +583,7 @@ export const cartData =[
 
    {
     id:'5',
-    image:'/images/cartImage5.svg',
+    image:'/images/cart5mage5.svg',
     alt:'cart icon 5',
     name:'Proin  elem pharetra',
     color:'Color : black',
