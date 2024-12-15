@@ -1,7 +1,7 @@
 
 import Image from "next/image";
-// import Pagesbar from "@/components/PageBar/PageBar";
-// import { Button } from "@/components/ui/button";
+import Pagesbar from "@/components/PageBar/PageBar";
+import { Button } from "@/components/ui/button";
 import ShopeOffer from "@/components/ShopeOffer/ShopeOffer";
 import { clientsImages } from "@/Data/Data";
 import Header from "@/components/Header/Header";
@@ -10,12 +10,10 @@ const page = () => {
   return (
     <>
       <Header/>
-      {/* <Pagesbar
-        pageName="About Us"
+      <Pagesbar pageName="About Us"
         name1="Home"
         name2="Page"
-        name3="About Us"
-      /> */}
+        name3="About Us"/>
       <div className="w-full min-h-screen pb-16">
         <div className="w-full flex flex-col md:flex-row items-center justify-center gap-x-6 min5:gap-x-8 mt-[90px] px-2 xl:px-0">
           <div className="relative w-[290px] h-[218px] min-w3:w-[410px] md:w-[400px] lg:w-[465px] min5:w-[560px] min-w3:h-[295px] lg:h-[335px] min5:h-[405px] bg-[#2B3CAB] rounded-[10px]">
@@ -40,13 +38,13 @@ const page = () => {
               </p>
             </div>
             <div className="mt-8 md:mt-10">
-              {/* <Button
+              <Button
                 variant="outline"
                 size={"default"}
                 className=" font-josefin"
               >
                 Contact Us
-              </Button> */}
+              </Button>
             </div>
           </div>
         </div>

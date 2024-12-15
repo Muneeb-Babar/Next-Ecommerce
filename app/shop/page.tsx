@@ -1,22 +1,20 @@
 "use client";
 
 import Image from "next/image";
-// import PageBar from "@/components/PageBar/PageBar";
-// import Brands from "@/components/Brands/Brands";
-// import Header from "@/components/Header/Header";
+import PageBar from "@/components/PageBar/PageBar";
+import Brands from "@/components/Brands/Brands";
 import { shopItems } from "@/Data/Data";
+import Header from "@/components/Header/Header";
 
 
 const page = () => {
   return (
     <>
-    {/* <Header />
-      <PageBar
-        pageName="Shop Grid Default"
+    <Header/>
+      <PageBar pageName="About Us"
         name1="Home"
         name2="Page"
-        name3="Shop"
-      /> */}
+        name3="About Us"/>
       <div className=" scroll-smooth sm:w-full flex lg:flex-row flex-col justify-between px-3 min7:px-0 min7:justify-center min7:gap-x-40 items-center pt-20">
         <div className="flex flex-col">
           <h1 className="text-[#151875] font-josefin max-w:text-[20px] text-center font-[600] text-[22px]">
@@ -116,7 +114,7 @@ const page = () => {
           </div>
         ))}
       </div>
-      {/* <Brands/> */}
+      <Brands/>
     </>
   );
 };
