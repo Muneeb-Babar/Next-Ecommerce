@@ -48,7 +48,7 @@ const productData = [
 
 
     {
-        id: 1,
+        id: 3,
         name: 'Cantilever Chair 1',
         price: '$42.00',
         nameOfChair:' Cantilever chair',
@@ -68,7 +68,7 @@ const productData = [
 
 
     {
-        id: 1,
+        id: 4,
         name: 'Cantilever Chair 1',
         price: '$42.00',
         nameOfChair:' Cantilever chair',
