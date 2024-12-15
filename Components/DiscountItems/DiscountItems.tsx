@@ -2,7 +2,7 @@
 import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCheck } from "@fortawesome/free-solid-svg-icons";
-import { Button } from "@/Components/ui/button";
+import { Button } from "@/components/ui/button";
 
 const DiscountItems = () => {
 

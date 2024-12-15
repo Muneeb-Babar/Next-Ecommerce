@@ -1,15 +1,15 @@
-import Header from "@/Components/Header/Header";
-import Hero from "@/Components/Hero/Hero";
-import FeaturedProduct from "@/Components/FeaturedProduct/FeaturedProduct";
-import LatestProduct from "@/Components/LatestProduct/LatestProduct";
-import ShopeOffer from "@/Components/ShopeOffer/ShopeOffer";
-import Banner from "@/Components/banner/Banner";
-import TrendingProducts from "@/Components/TrendingProducts/TrendingProducts";
-import DiscountItems from "@/Components/DiscountItems/DiscountItems";
-import TopCategories from "@/Components/TopCategories/TopCategories";
-import Banner2 from "@/Components/banner2/Banner2";
-import Brands from "@/Components/brands/Brands";
-import Blog from "@/Components/Blog/Blog";
+import Header from "@/components/Header/Header";
+import Hero from "@/components/Hero/Hero";
+import FeaturedProduct from "@/components/FeaturedProduct/FeaturedProduct";
+import LatestProduct from "@/components/LatestProduct/LatestProduct";
+import ShopeOffer from "@/components/ShopeOffer/ShopeOffer";
+import Banner from "@/components/banner/Banner";
+import TrendingProducts from "@/components/TrendingProducts/TrendingProducts";
+import DiscountItems from "@/components/DiscountItems/DiscountItems";
+import TopCategories from "@/components/TopCategories/TopCategories";
+import Banner2 from "@/components/banner2/Banner2";
+import Brands from "@/components/brands/Brands";
+import Blog from "@/components/Blog/Blog";
 
 export default function Home() {
   return (

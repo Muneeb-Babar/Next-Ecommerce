@@ -1,7 +1,7 @@
-import Pagesbar from "@/Components/PageBar/PageBar"
+import Pagesbar from "@/components/PageBar/PageBar"
 import Image from "next/image";
-import { Button } from "@/Components/ui/button";
-import Header from "@/Components/Header/Header";
+import { Button } from "@/components/ui/button";
+import Header from "@/components/Header/Header";
 const Contact = () => {
   return (
     <>

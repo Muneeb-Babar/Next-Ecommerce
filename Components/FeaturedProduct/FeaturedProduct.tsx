@@ -3,7 +3,7 @@ import AOS from 'aos';
 import "aos/dist/aos.css";
 import { useEffect } from 'react';
 import Image from "next/image";
-import ProductData from "@/app/ProductData";
+import productData from '@/Data/Data';
 
 const FeaturedProduct = () => {
   useEffect(() => {
@@ -18,7 +18,7 @@ const FeaturedProduct = () => {
         </h1>
 
         <div className="w-full h-full flex justify-center gap-x-[30px] md:gap-x-[45px] min3:gap-x-[35px] gap-y-[100px] lg:gap-[28px] flex-wrap lg:flex-nowrap pt-6">
-          {ProductData.map((product, index) => {
+          {productData.map((product, index) => {
             const {
               id,
               name,

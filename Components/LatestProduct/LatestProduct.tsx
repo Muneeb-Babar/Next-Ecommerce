@@ -1,6 +1,6 @@
 "use client"
 import Image from "next/image";
-import  { latestProduct1, latestProduct2 } from '@/app/ProductData'
+import { latestProduct1,latestProduct2 } from "@/Data/Data";
 import { useEffect } from "react";
 import AOS from 'aos'
 import "aos/dist/aos.css"

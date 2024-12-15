@@ -1,8 +1,8 @@
-import Pagesbar from "@/Components/PageBar/PageBar";
+import Pagesbar from "@/components/PageBar/PageBar";
 import Image from "next/image";
-import { cartData } from "../ProductData";
-import { Button } from "@/Components/ui/button";
-import Header from "@/Components/Header/Header";
+import { cartData } from "@/Data/Data";
+import { Button } from "@/components/ui/button";
+import Header from "@/components/Header/Header";
 const Cart = () => {
   return (
     <>

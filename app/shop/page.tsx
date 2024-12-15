@@ -1,9 +1,9 @@
 "use client";
-import Pagesbar from "@/Components/PageBar/PageBar";
+import Pagesbar from "@/components/PageBar/PageBar";
 import Image from "next/image";
-import { shopItems } from "../ProductData";
-import Brands from "@/Components/brands/Brands";
-import Header from "@/Components/Header/Header";
+import { shopItems } from "@/Data/Data";
+import Brands from "@/components/brands/Brands";
+import Header from "@/components/Header/Header";
 const page = () => {
   return (
     <>

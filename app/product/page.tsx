@@ -1,4 +1,4 @@
-import Pagesbar from "@/Components/PageBar/PageBar";
+import Pagesbar from "@/components/PageBar/PageBar";
 import Image from "next/image";
 import { faStar, faHeart } from "@fortawesome/free-solid-svg-icons";
 import {
@@ -8,9 +8,9 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Link from "next/link";
-import { productDetails } from "../ProductData";
-import Brands from "@/Components/brands/Brands";
-import Header from "@/Components/Header/Header";
+import { productDetails } from "@/Data/Data";
+import Brands from "@/components/brands/Brands";
+import Header from "@/components/Header/Header";
 const Shop = () => {
   // w-[90%] min3:w-[900px] lg:w-[1000px] min7:
   return (

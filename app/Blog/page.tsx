@@ -1,8 +1,8 @@
-import Pagesbar from "@/Components/PageBar/PageBar";
-import { BlogData } from "../ProductData";
+import Pagesbar from "@/components/PageBar/PageBar";
+import { BlogData } from "@/Data/Data";
 import Image from "next/image";
 import { MdSearch } from "react-icons/md";
-import { recentPosts, saleProduct } from "../ProductData";
+import { recentPosts,saleProduct } from "@/Data/Data";
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -10,8 +10,8 @@ import {
   faInstagram,
   faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
-import Brands from "@/Components/brands/Brands";
-import Header from "@/Components/Header/Header";
+import Brands from "@/components/brands/Brands";
+import Header from "@/components/Header/Header";
 const page = () => {
   return (
     <>

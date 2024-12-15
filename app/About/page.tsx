@@ -1,10 +1,10 @@
 
 import Image from "next/image";
-import Pagesbar from "@/Components/PageBar/PageBar";
-import { Button } from "@/Components/ui/button";
-import ShopeOffer from "@/Components/ShopeOffer/ShopeOffer";
-import {clientsImages} from'@/app/ProductData';
-import Header from "@/Components/Header/Header";
+import Pagesbar from "@/components/PageBar/PageBar";
+import { Button } from "@/components/ui/button";
+import ShopeOffer from "@/components/ShopeOffer/ShopeOffer";
+import { clientsImages } from "@/Data/Data";
+import Header from "@/components/Header/Header";
 
 const page = () => {
   return (

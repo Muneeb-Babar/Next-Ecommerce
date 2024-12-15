@@ -2,7 +2,7 @@
 import "aos/dist/aos.css";
 
 import Image from "next/image";
-import { Button } from "@/Components/ui/button";
+import { Button } from "@/components/ui/button";
 const Banner = () => {
   return (
     <>
